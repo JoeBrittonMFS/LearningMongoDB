@@ -1,0 +1,26 @@
+{
+  "name": "learning-mongo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeBrittonMFS/LearningMongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeBrittonMFS/LearningMongoDB/issues"
+  },
+  "homepage": "https://github.com/JoeBrittonMFS/LearningMongoDB#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.13",
+    "validator": "^13.5.2"
+  }
+}
